@@ -1,7 +1,11 @@
 # API - Node.Js + Express
 
 API REST
- 
+
+## Descrição
+ - Um sistema interno simples para organizzação de equipe.
+
+
 ## Pré-requisitos
 
 - Node.js instalado
